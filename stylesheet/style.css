@@ -1,0 +1,83 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    width: 80%;
+    margin: auto;
+    box-shadow: 2px 2px 4px grey ;
+    
+}
+.hlink {
+    float: right;
+}
+.header2 {
+    background-image:linear-gradient(to bottom right, rgb(46, 12, 90),rgb(82, 13, 82) );
+    color :white;
+    height: 25em;
+}
+.lheader {
+    clear:right;
+    display: flex;
+    justify-content: center;
+
+}
+.pimage {
+    float :left;
+    margin-right:1em;
+    padding: 0;
+    width: 15%;
+    box-shadow: 2px 2px 4px grey;
+
+}
+  .cite {
+    clear: left;
+  }  
+
+
+
+#ph {
+    background-color: grey;
+    padding: 4em;
+    align-self: center;
+    
+}
+.lheader1 {
+    margin: 02em 2em 0 2em;
+    
+}
+.hlink {
+    text-decoration: none;
+    color: white;
+    padding-top: 2em;
+    padding-right: 1em;
+    
+
+}
+.logo {
+  padding: 2em;
+  display: inline-block;
+}
+h2 {
+    text-align: center;
+}
+div.desc {
+    text-align: center;
+    padding: 0px;
+    margin: 0;
+    font-size: 15px;
+}
+div.floatc {
+  margin-left: 25%;
+  height: 100%;
+
+}
+img#pim {
+    height: 8em;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+.section {
+    margin-top: 5%;
+    margin-bottom: 25%;
+}
